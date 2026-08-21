@@ -1,4 +1,4 @@
-# AnaliseDeDados
+# 📊 ANÁLISE DE DADOS
 
 Dashboard interativo desenvolvido em Python e Streamlit para análise e visualização de dados.
 
