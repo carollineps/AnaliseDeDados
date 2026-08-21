@@ -5,7 +5,7 @@ Dashboard interativo desenvolvido em Python e Streamlit para análise e visualiz
 O projeto apresenta informações de forma visual e interativa, permitindo analisar dados, comparar resultados e identificar os principais fabricantes e produtos.
 
 
-#🚀 Tecnologias utilizadas
+🚀 #Tecnologias utilizadas
 
 🐍 Python
 
