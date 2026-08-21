@@ -17,7 +17,7 @@ O projeto apresenta informações de forma visual e interativa, permitindo anali
 
 🔧 Git e GitHub
 
-#📌 Funcionalidades
+📌 #Funcionalidades
 Visualização de dados em gráficos interativos
 Gráficos de linhas
 Gráficos de barras
@@ -28,7 +28,7 @@ Visualização dos produtos
 Interface interativa através do Streamlit
 Filtros e análise dos dados
 
-#📂 Estrutura do projeto
+📂 #Estrutura do projeto
 AnaliseDeDados/
 │
 ├── app.py
@@ -41,7 +41,7 @@ AnaliseDeDados/
 
 A estrutura pode variar de acordo com os arquivos utilizados no projeto.
 
-#⚙️ Como executar o projeto
+⚙️ #Como executar o projeto
 1. Clone o repositório
 git clone https://github.com/carollineps/AnaliseDeDados.git
 2. Entre na pasta
@@ -57,7 +57,7 @@ streamlit run app.py
 
 O sistema será aberto no navegador.
 
-#📊 Visualizações
+📊 #Visualizações
 
 O dashboard utiliza diferentes tipos de gráficos para facilitar a interpretação dos dados, incluindo:
 
@@ -67,15 +67,15 @@ Gráficos de pizza
 Rankings
 Indicadores e totais
 
-#🏆 Ranking
+🏆 #Ranking
 
 O projeto também apresenta um ranking dos fabricantes com base no total de dados analisados.
 
-#🎯 Objetivo
+🎯 #Objetivo
 
 O objetivo do projeto é transformar dados brutos em informações visuais e fáceis de interpretar, facilitando a análise e a tomada de decisões.
 
-#👩‍💻 Autor(a)
+👩‍💻 #Autor(a)
 
 **Ana Carolline da Cruz Costa Garcez**
 
@@ -83,6 +83,6 @@ O objetivo do projeto é transformar dados brutos em informações visuais e fá
 
 Projeto desenvolvido para fins de análise de dados e desenvolvimento de dashboards interativos.
 
-#📄 Licença
+📄 #Licença
 
 Este projeto está disponível para fins educacionais e de estudo.
