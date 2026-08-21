@@ -28,18 +28,6 @@ Visualização dos produtos
 Interface interativa através do Streamlit
 Filtros e análise dos dados
 
-📂 #Estrutura do projeto
-AnaliseDeDados/
-│
-├── app.py
-├── dados/
-│   └── ...
-├── imagens/
-│   └── ...
-├── requirements.txt
-└── README.md
-
-A estrutura pode variar de acordo com os arquivos utilizados no projeto.
 
 ⚙️ #Como executar o projeto
 1. Clone o repositório
